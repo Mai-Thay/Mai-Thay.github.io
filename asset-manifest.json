@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.354844c1.css",
+    "main.js": "/static/js/main.f7aedb97.js",
+    "static/js/787.1fe94d74.chunk.js": "/static/js/787.1fe94d74.chunk.js",
+    "static/media/background-1.jpg": "/static/media/background-1.f3a0d46909043071b067.jpg",
+    "static/media/poppins-regular-webfont.ttf": "/static/media/poppins-regular-webfont.5c88a3818644e26f0040.ttf",
+    "static/media/poppins-extrabold-webfont.ttf": "/static/media/poppins-extrabold-webfont.fb8dde13d42c12dfa981.ttf",
+    "static/media/poppins-extrabold-webfont.woff": "/static/media/poppins-extrabold-webfont.9d1db27ab3b29ba7f305.woff",
+    "static/media/poppins-regular-webfont.woff": "/static/media/poppins-regular-webfont.e80112c391c2f6c8858e.woff",
+    "static/media/poppins-extrabold-webfont.eot": "/static/media/poppins-extrabold-webfont.27bf87743fe2c78c0ce0.eot",
+    "static/media/poppins-regular-webfont.eot": "/static/media/poppins-regular-webfont.b243d2b2b7b1cb4b7c8b.eot",
+    "static/media/poppins-extrabold-webfont.woff2": "/static/media/poppins-extrabold-webfont.6fdfc6b7e6efb3d01670.woff2",
+    "static/media/poppins-regular-webfont.woff2": "/static/media/poppins-regular-webfont.8738bc8599832dfcbab8.woff2",
+    "static/media/show.svg": "/static/media/show.81a15ecd9f904c038ac9cafb4590f24c.svg",
+    "index.html": "/index.html",
+    "static/media/question-mark.svg": "/static/media/question-mark.8a82781af63029bbc5665fd1149403d5.svg",
+    "static/media/hide.svg": "/static/media/hide.3e9dcf7e3c7927f5070ecaa76e81fbb9.svg",
+    "main.354844c1.css.map": "/static/css/main.354844c1.css.map",
+    "main.f7aedb97.js.map": "/static/js/main.f7aedb97.js.map",
+    "787.1fe94d74.chunk.js.map": "/static/js/787.1fe94d74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.354844c1.css",
+    "static/js/main.f7aedb97.js"
+  ]
+}
