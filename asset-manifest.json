@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.354844c1.css",
-    "main.js": "/static/js/main.f7aedb97.js",
+    "main.css": "/static/css/main.4541b9b4.css",
+    "main.js": "/static/js/main.b3c4860e.js",
     "static/js/787.1fe94d74.chunk.js": "/static/js/787.1fe94d74.chunk.js",
     "static/media/background-1.jpg": "/static/media/background-1.f3a0d46909043071b067.jpg",
     "static/media/poppins-regular-webfont.ttf": "/static/media/poppins-regular-webfont.5c88a3818644e26f0040.ttf",
@@ -13,15 +13,15 @@
     "static/media/poppins-extrabold-webfont.woff2": "/static/media/poppins-extrabold-webfont.6fdfc6b7e6efb3d01670.woff2",
     "static/media/poppins-regular-webfont.woff2": "/static/media/poppins-regular-webfont.8738bc8599832dfcbab8.woff2",
     "static/media/show.svg": "/static/media/show.81a15ecd9f904c038ac9cafb4590f24c.svg",
-    "index.html": "/index.html",
     "static/media/question-mark.svg": "/static/media/question-mark.8a82781af63029bbc5665fd1149403d5.svg",
+    "index.html": "/index.html",
     "static/media/hide.svg": "/static/media/hide.3e9dcf7e3c7927f5070ecaa76e81fbb9.svg",
-    "main.354844c1.css.map": "/static/css/main.354844c1.css.map",
-    "main.f7aedb97.js.map": "/static/js/main.f7aedb97.js.map",
+    "main.4541b9b4.css.map": "/static/css/main.4541b9b4.css.map",
+    "main.b3c4860e.js.map": "/static/js/main.b3c4860e.js.map",
     "787.1fe94d74.chunk.js.map": "/static/js/787.1fe94d74.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.354844c1.css",
-    "static/js/main.f7aedb97.js"
+    "static/css/main.4541b9b4.css",
+    "static/js/main.b3c4860e.js"
   ]
 }
